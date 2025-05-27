@@ -15,8 +15,8 @@ The upstream task involves self-supervised learning (SSL) using approximately 60
 
 These pretrained weights and associated training code can be found at the links below:
 
-- [🔗 DINOv1 pretrained weights](https://github.com/L-YUNNA/US-pytorch)
-- [🔗 MAE pretrained weights](https://github.com/L-YUNNA/US-pytorch)
+- 🔗 DINOv1 [code](https://github.com/facebookresearch/dino) [pretrained weights](https://github.com/L-YUNNA/US-pytorch/releases/download/DINOv1_US_v1.0/dino_res50_v2_checkpoint.pth)
+- 🔗 MAE [code](https://github.com/openmedlab/DeblurringMIM) [pretrained weights](https://github.com/L-YUNNA/US-pytorchreleases/download/DINOv1_US_v1.0/checkpoint-1459.pth)
 
 **Datasets used in upstream training**:
 
